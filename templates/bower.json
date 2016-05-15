@@ -1,0 +1,21 @@
+{
+  "name": "<%= appNameSlug %>",
+  "version": "<%= appVersion %>",
+  "homepage": "https://github.com/lucasmm/react-es6-starter",
+  "authors": [
+    "<%= authorName %> <<%= authorEmail %>>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      <% if (bootstrap) { %>
+    "bootstrap": "~3.3.6"
+    <% } %>
+  }
+}

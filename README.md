@@ -1,4 +1,4 @@
-# Slush Slush-react-es6-gulp [![Build Status](https://secure.travis-ci.org/lucasmm/slush-react-es6-gulp.png?branch=master)](https://travis-ci.org/lucasmm/slush-react-es6-gulp) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-es6-gulp.png)](http://badges.enytc.com/for/npm/slush-react-es6-gulp)
+# Slush Slush-react-es6-gulp
 
 > Slush generator for react with babel, browserify, gulp, browser-sync
 
